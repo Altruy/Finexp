@@ -1,0 +1,161 @@
+{
+    "last_transaction": 1,
+    "Joe": [
+        {
+            "Date": "09/06/2024",
+            "Description": "Food from donar",
+            "Amount": 22.0,
+            "Category": "Personal Expenses",
+            "id": "3f3d4657-0d73-45f6-893c-fb99e61aadf5"
+        },
+        {
+            "Date": "09/06/2024",
+            "Description": "Got summer blanket",
+            "Amount": 50.0,
+            "Category": "Personal Expenses",
+            "id": "a2b213cc-1a5b-4f6d-9b78-b7dd8a05a272"
+        },
+        {
+            "Date": "01/04/23",
+            "Description": "Food from KFC",
+            "Amount": 5.0,
+            "Category": "Personal Expenses",
+            "id": "f28ac4e8-430f-4ff2-b2ad-dd45d7144f70"
+        },
+        {
+            "Date": "15/03/23",
+            "Description": "Netflix subscription payment",
+            "Amount": 8.99,
+            "Category": "Personal Expenses",
+            "id": "8b194782-b7d5-4a0e-89a0-4a0386912033"
+        },
+        {
+            "Date": "09/06/2024",
+            "Description": "laundry detergent",
+            "Amount": 25.0,
+            "Category": "Shared Expenses",
+            "id": "ebc72fe4-c5f5-438d-af0b-9dd29f6110a8"
+        },
+        {
+            "Date": "15/06/2024",
+            "Description": "Groceries purchase at Lidl",
+            "Amount": 15.0,
+            "Category": "Shared Expenses",
+            "id": "81e24943-57ed-4648-b89f-3a57d2013038"
+        },
+        {
+            "Date": "03/04/23",
+            "Description": "Groceries shopping at SuperMart",
+            "Amount": 120.0,
+            "Category": "Shared Expenses",
+            "id": "c3597ebc-bf68-415b-87ac-e9e7b946d4f1"
+        },
+        {
+            "Date": "05/04/23",
+            "Description": "Electricity bill payment to CityPower",
+            "Amount": 70.0,
+            "Category": "Shared Expenses",
+            "id": "9c039b6d-c5be-40d5-9f25-b08035055c38"
+        },
+        {
+            "Date": "12/04/23",
+            "Description": "Grocery shopping at Supermarket FreshMart",
+            "Amount": 75.0,
+            "Category": "Shared Expenses",
+            "id": "2fe10e91-a315-4408-ae59-35977f8ef704"
+        },
+        {
+            "Date": "18/04/23",
+            "Description": "Electricity bill payment",
+            "Amount": 65.0,
+            "Category": "Shared Expenses",
+            "id": "36146d60-01c8-4182-a88d-838130cc1f26"
+        },
+        {
+            "Date": "10/03/23",
+            "Description": "Grocery shopping at Local Market",
+            "Amount": 45.75,
+            "Category": "Shared Expenses",
+            "id": "53b1975d-5be1-4754-a1c4-c7011d11ec24"
+        },
+        {
+            "Date": "20/03/23",
+            "Description": "Monthly rent for shared apartment",
+            "Amount": 1200.0,
+            "Category": "Shared Expenses",
+            "id": "ef715ed3-ee59-4f2f-a2bc-943892a4ebe6"
+        },
+        {
+            "Date": "20/06/2024",
+            "Description": "Borrowed from Meena",
+            "Amount": 69.0,
+            "Category": "Debt",
+            "id": "5e7a0c92-3640-404d-8b19-8b8ac5017afd"
+        },
+        {
+            "Date": "20/06/2024",
+            "Description": "Haircut at the salon",
+            "Amount": 15.0,
+            "Category": "Personal Expenses",
+            "id": "9d32c437-c8ad-4001-a8db-805163fe3202"
+        }
+    ],
+    "Meena": [
+        {
+            "Date": "14/06/2024",
+            "Description": "Clothes at Primark",
+            "Amount": 40.0,
+            "Category": "Personal Expenses",
+            "id": "6fbca1b8-b25f-4e68-82db-e6d6809a844a"
+        },
+        {
+            "Date": "04/05/23",
+            "Description": "Food from donar",
+            "Amount": 5.0,
+            "Category": "Personal Expenses",
+            "id": "d1e109f6-a7f4-4eb0-a464-6f9d457b1362"
+        },
+        {
+            "Date": "12/05/23",
+            "Description": "Grocery shopping at Supermarket XYZ",
+            "Amount": 45.75,
+            "Category": "Shared Expenses",
+            "id": "d0f8f30b-cf5f-4967-9056-c59e1d93c27a"
+        },
+        {
+            "Date": "19/05/23",
+            "Description": "Electricity bill payment",
+            "Amount": 60.4,
+            "Category": "Shared Expenses",
+            "id": "a8662c24-3469-4f42-8d73-7f20eef5d37e"
+        },
+        {
+            "Date": "15/06/2024",
+            "Description": "Buy breakfast for personal use",
+            "Amount": 15.0,
+            "Category": "Personal Expenses",
+            "id": "cfceae53-a492-43c0-8bf9-1d6c8c57de14"
+        },
+        {
+            "Date": "15/06/2024",
+            "Description": "Borrowed 20 euros",
+            "Amount": 20.0,
+            "Category": "Debt",
+            "id": "ad1c4cea-6fac-4b10-b39a-6f154c03c451"
+        },
+        {
+            "Date": "14/06/2024",
+            "Description": "Food from donar",
+            "Amount": 34.0,
+            "Category": "Personal Expenses",
+            "id": "8ea7b87a-85d2-41e1-a3ab-a6d8b12e2d8d"
+        },
+        {
+            "Date": "15/06/2024",
+            "Description": "Clothes purchase",
+            "Amount": 25.0,
+            "Category": "Personal Expenses",
+            "id": "8b0dde39-dd99-4a66-8b69-633c66dd0656"
+        }
+    ]
+}
